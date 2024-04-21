@@ -9,7 +9,7 @@ I have taken Edward Hopper's iconic *Nighthawks* and transferred its style to an
 
 ![Merged Artwork](assets/hopper_nightstand.png)
 
-## Natural and Built structures
+## Impermanent Structures
 
 Using traditional Japanese painting as the subject, I created a more colorful and dream-like version by transferring a digital image of a tree in blossom near the Landesmuseum in Zurich, Switzerland. 
 
