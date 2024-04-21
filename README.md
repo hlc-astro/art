@@ -11,6 +11,5 @@ I have taken Edward Hopper's iconic *Nighthawks* and transferred its style to an
 
 ## Impermanent Structures
 
-Using traditional Japanese painting as the subject, I created a more colorful and dream-like version by transferring a digital image of a tree in blossom near the Landesmuseum in Zurich, Switzerland. 
-
+Using traditional Japanese painting as the subject, I created a more colorful and dream-like version by transferring a digital photograph of a tree in blossom. 
 ![Merged Artwork](assets/pink_pagota.png)
